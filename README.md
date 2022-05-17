@@ -8,7 +8,7 @@ bash script to stream or download torrent website content like movie or series i
 # support
 1) [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for Node.js (npm install peerflix)
 2) [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder 
-
+3) webtorrent - future support ! coming soon
 # goal
 who dont like free food?? its for fun
 

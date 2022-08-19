@@ -10,9 +10,13 @@ bash script to stream or download torrent website content like movie or series i
 2) [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder 
 3) webtorrent - future support ! coming soon
 # goal
+
 who dont like free food?? its for fun
 
 # credits
 my brain 
 [bugwritter] - awesome guy linux youtube 
 [DemonKingSwarn] - the man behind the screen
+
+# note 
+due to some current even the script might not for in few geo location area and region soon adding VPN support 
